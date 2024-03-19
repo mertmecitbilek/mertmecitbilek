@@ -1,6 +1,6 @@
 ![Masterhead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.williams.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F10%2FCybersecurity-header.jpg%3Fw%3D1440%26h%3D610%26crop%3D1&f=1&nofb=1&ipt=eb4abc6548912c859d4006ddde4441fa4bbecc80dffebbc011fdf1c7bd54828c&ipo=images)
 <h1 align="center">HELLO👋, I'm Mert</h1>
-<h3 align="center">A passionate Cyber Security developer from Turkey</h3>
+<h3 align="center">A researcher Cyber Security developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Cyber Security and Network**
 
