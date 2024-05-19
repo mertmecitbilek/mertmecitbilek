@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Cyber Security and Network**
 
-- 🌱 I’m currently learning **HTML and CSS**
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
